@@ -1,0 +1,16 @@
+174.자연 및 인공적 발생 非언어적 소리 데이터/
+loss/
+__pycache__/
+saved_model/
+apiset/
+binarysoundset/
+movesound/
+animalsound/
+research_result/
+
+api.py
+rgbdataset.py
+histogram.py
+segment.py
+shutils.py
+3channel_train.py
